@@ -1,0 +1,9 @@
+{
+  "name": "qfu-example-node",
+  "version": "1.0.0",
+  "description": "Using qfu from Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx -y tsx index.ts"
+  }
+}
