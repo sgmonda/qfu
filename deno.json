@@ -1,7 +1,7 @@
 {
   "name": "@sgmonda/qfu",
   "description": "Simple queue system for JS/TS and serverless environments",
-  "version": "0.1.16",
+  "version": "0.1.0",
   "license": "MIT",
   "exports": "./mod.ts",
   "imports": {
